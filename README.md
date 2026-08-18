@@ -1,8 +1,5 @@
 # ISO-22514-7-Measurement-Process-Capability-
 
-
-# ISO 22514-7 Capability of Measurement Processes App
-
 An R Shiny tool for evaluating measuring system and measurement process capability (Q_MS/C_MS, Q_MP/C_MP) following the procedure described in ISO 22514-7:2021 — Statistical methods in process management — Capability and performance — Part 7: Capability of measurement processes.
 
 Built as course material for teaching AIAG-VDA / ISO 22514 harmonization concepts. Enter your own uncertainty components, or use the built in example dataset (ISO 22514-7:2021, Annex A.1 / ISO 11095) to explore how the standard's procedure works end to end.
